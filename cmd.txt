@@ -1,0 +1,2 @@
+npm install -g newman-reporter-htmlextra
+newman run "C:\Users\Milad Farabi\Desktop\API Testing Projects\API_Testing_Restful_Booker-ByKawsarNewazChowdhury\RestfulAPI.postman_collection.json" -e "C:\Users\Milad Farabi\Desktop\API Testing Projects\API_Testing_Restful_Booker-ByKawsarNewazChowdhury\RestfulAPI.postman_environment.json" -r htmlextra
